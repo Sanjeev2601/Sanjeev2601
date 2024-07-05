@@ -9,12 +9,13 @@ I am Sanjeev Parthasarathy, a dedicated and skilled software engineer with a str
 * C++, Java, Python
 - 🔭 I’m currently working on this page. 
 
-
+### Reach out to me via:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg' alt='github' height='40'>](https://github.com/Sanjeev2601)&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sanjeevp26/)&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lebro_gems/)&nbsp;&nbsp;&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/icloud.svg' alt='website' height='40'>](https://react.sanjeev-portfolio.com/)
 
+### Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev2601)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sanjeev2601)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sanjeev2601)](https://github.com/ryo-ma/github-profile-trophy)
