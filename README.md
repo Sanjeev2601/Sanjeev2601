@@ -1,11 +1,12 @@
-### Hi there 👋, Sanjeev Parthasarathy
-#### Software Engineer
 ![Software Engineer](https://react.sanjeev-portfolio.com/static/media/1.7211238069d20fc7f462.png)
 
+# Sanjeev Parthasarathy
 I am Sanjeev Parthasarathy, a dedicated and skilled software engineer with a strong educational background, currently pursuing a Master’s degree in Computer Science at Virginia Tech. I bring practical experience from my time as a Senior Member Technical at ADP. You can check my portfolio here at : https://react.sanjeev-portfolio.com/
 
-Skills: REACT / JS / HTML / CSS
-
+## Skills: 
+* ⚛️React
+* HTML, CSS, JS, TypeScript 
+* C++, Java, Python
 - 🔭 I’m currently working on this page. 
 
 
