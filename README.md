@@ -7,7 +7,6 @@ I am Sanjeev Parthasarathy, a dedicated and skilled software engineer with a str
 * ⚛️React
 * HTML, CSS, JS, TypeScript 
 * C++, Java, Python
-- 🔭 I’m currently working on this page. 
 
 ### Reach out to me via:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg' alt='github' height='40'>](https://github.com/Sanjeev2601)&nbsp;&nbsp;&nbsp;
