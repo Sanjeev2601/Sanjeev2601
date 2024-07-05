@@ -10,7 +10,7 @@ I am Sanjeev Parthasarathy, a dedicated and skilled software engineer with a str
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='margin-right: 15px;'>](https://github.com/Sanjeev2601)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='margin-right: 100px;'>](https://github.com/Sanjeev2601)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='margin-right: 15px;'>](https://www.linkedin.com/in/sanjeevp26/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' style='margin-right: 15px;'>](https://www.instagram.com/lebro_gems/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='margin-right: 15px;'>](https://react.sanjeev-portfolio.com/)  
