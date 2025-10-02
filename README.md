@@ -1,7 +1,7 @@
 ![Software Engineer](https://github.com/Sanjeev2601/Sanjeev2601/blob/main/Github_banner_1.png)
 
 # Sanjeev Parthasarathy
-I am Sanjeev Parthasarathy, a dedicated and skilled software engineer with a strong educational background, currently pursuing a Master’s degree in Computer Science at Virginia Tech. I bring practical experience from my time as a Senior Member Technical at ADP. You can check my portfolio here at : https://react.sanjeev-portfolio.com/
+I am Sanjeev Parthasarathy, a dedicated and skilled software engineer with a strong educational background, currently pursuing a Master’s degree in Computer Science at Virginia Tech. I bring practical experience from my time as a Senior Member Technical at ADP. You can check my portfolio here at : https://sanjeev-portfolio.site/
 
 ## Skills: 
 * ⚛️React
